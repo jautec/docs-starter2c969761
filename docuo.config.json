@@ -1,6 +1,6 @@
 {
-  "title": "My site",
-  "description": "Start building modern documentation site in 4 steps - Docuo",
+  "title": "Jautec Docs",
+  "description": "HUB de manuais e instruções das operações de software e hardware da Jautec.",
   "favicon": "image/favicon.ico",
   "themeConfig": {
     "colorMode": {
@@ -9,7 +9,7 @@
       "respectPrefersColorScheme": false
     },
     "navbar": {
-      "title": "My project",
+      "title": "Jautec Docs",
       "logo": {
         "light": "image/logo_light.png",
         "dark": "image/logo_dark.png"
@@ -32,7 +32,7 @@
         "light": "image/logo_light.png",
         "dark": "image/logo_dark.png"
       },
-      "caption": "My project",
+      "caption": "Jautec Docs",
       "links": [
         {
           "title": "Product",
